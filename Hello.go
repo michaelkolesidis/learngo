@@ -11,3 +11,5 @@ func main() {
 	 * and writes to standard output. */
 	fmt.Println("Hello, world.")
 }
+
+/* Execute the program by writing in terminal $ go run Hello.go */
